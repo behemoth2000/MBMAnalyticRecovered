@@ -1,0 +1,9 @@
+PyQt6
+PyMuPDF
+pandas
+reportlab
+cryptography
+qrcode
+Pillow
+matplotlib
+openpyxl
